@@ -1,1 +1,1 @@
-# staffrestapi
+A Staff REST API built using Spring Boot Starter Project for managing staff records. It supports Create, Read, Update, and Delete (CRUD) operations with RESTful endpoints. Designed for scalability, efficiency, and seamless integration with databases.
